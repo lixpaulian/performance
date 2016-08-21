@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+    
+    
+  <CurrentConfigs><Project>UART_TwoBoards_ComPolling/test_release</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>290</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Debug-Log>
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1454</ColumnWidth1></Debug-Log>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1106</ColumnWidth1><ColumnWidth2>295</ColumnWidth2><ColumnWidth3>73</ColumnWidth3></Build>
+    <TerminalIO/><PROJECT_GUI_CSTAT><col-names><item>Check</item><item>File</item><item>Line</item><item>Message</item><item>Severity</item></col-names><col-widths><item>200</item><item>200</item><item>100</item><item>500</item><item>100</item></col-widths><PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows></PROJECT_GUI_CSTAT><Find-All-References><ColumnWidth0>585</ColumnWidth0><ColumnWidth1>83</ColumnWidth1><ColumnWidth2>1003</ColumnWidth2></Find-All-References></Static>
+    <Windows>
+      
+      
+    <Wnd2>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-3433-30786</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>UART_TwoBoards_ComPolling</ExpandedNode><ExpandedNode>UART_TwoBoards_ComPolling/Doc</ExpandedNode><ExpandedNode>UART_TwoBoards_ComPolling/Drivers</ExpandedNode><ExpandedNode>UART_TwoBoards_ComPolling/Example</ExpandedNode><ExpandedNode>UART_TwoBoards_ComPolling/Example/User</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd2><Wnd3>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-14181-30789</Identity>
+            <TabName>Debug Log</TabName>
+            <Factory>Debug-Log</Factory>
+            <Session/>
+          </Tab>
+          <Tab>
+            <Identity>TabID-12738-31635</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        <Tab><Identity>TabID-872-19679</Identity><TabName>References</TabName><Factory>Find-All-References</Factory><Session/></Tab></Tabs>
+        
+      <SelectedTab>1</SelectedTab></Wnd3></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\main.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>539</SelStart2><SelEnd2>539</SelEnd2></Tab><ActiveTab>0</ActiveTab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-0519B0F8><key>iaridepm.enu1</key></Toolbar-0519B0F8></Sizes></Row0></Top><Left><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>637</Bottom><Right>364</Right><x>-2</x><y>-2</y><xscreen>221</xscreen><yscreen>200</yscreen><sizeHorzCX>130460</sizeHorzCX><sizeHorzCY>203874</sizeHorzCY><sizeVertCX>216057</sizeVertCX><sizeVertCY>651376</sizeVertCY></Rect></Wnd2></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>299</Bottom><Right>1696</Right><x>-2</x><y>-2</y><xscreen>1698</xscreen><yscreen>301</yscreen><sizeHorzCX>1002361</sizeHorzCX><sizeHorzCY>306830</sizeHorzCY><sizeVertCX>130460</sizeVertCX><sizeVertCY>203874</sizeVertCY></Rect></Wnd3></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
