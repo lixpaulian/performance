@@ -33,9 +33,6 @@ Topic: Description
 
 	The actual values for A and B must be derived based on input that is not available at compile time.
 */
-
-#if CORE_TIMED == 0		/* compile this file if stop watch timing is off */
-
 ee_s16 matrix_test(ee_u32 N, MATRES *C, MATDAT *A, MATDAT *B, MATDAT val);
 ee_s16 matrix_sum(ee_u32 N, MATRES *C, MATDAT clipval);
 void matrix_mul_const(ee_u32 N, MATRES *C, MATDAT *A, MATDAT val);
@@ -309,5 +306,3 @@ void matrix_mul_matrix_bitextract(ee_u32 N, MATRES *C, MATDAT *A, MATDAT *B) {
 		}
 	}
 }
-
-#endif

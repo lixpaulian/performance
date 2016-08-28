@@ -12,6 +12,8 @@
 
 #include <stddef.h>
 
+#define CORE_TIMED 1
+
 /************************/
 /* Data types and settings */
 /************************/

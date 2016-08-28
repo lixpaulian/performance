@@ -33,7 +33,7 @@ Topic: Description
 	(see core_state.png).
 */
 
-#if CORE_TIMED == 0		/* compile this file if stop watch timing is off */
+#if CORE_TIMED == 1		/* compile this file if stop watch timing is off */
 
 /* local functions */
 enum CORE_STATE core_state_transition( ee_u8 **instr , ee_u32 *transition_count);

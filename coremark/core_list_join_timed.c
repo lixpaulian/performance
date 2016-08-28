@@ -48,7 +48,7 @@ Topic: Description
 	
 */
 
-#if CORE_TIMED == 0		/* compile this file if stop watch timing is off */
+#if CORE_TIMED == 1		/* compile this file if stop watch timing is off */
 
 /* local functions */
 
@@ -498,4 +498,3 @@ list_head *core_list_mergesort(list_head *list, list_cmp cmp, core_results *res)
 }
 
 #endif
-
